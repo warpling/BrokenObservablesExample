@@ -10,9 +10,9 @@
 		DCACCB772A969DE100998A10 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = DCACCB762A969DE100998A10 /* RealityKitContent */; };
 		DCACCB792A969DE100998A10 /* BrokenObservablesExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCACCB782A969DE100998A10 /* BrokenObservablesExampleApp.swift */; };
 		DCACCB7B2A969DE100998A10 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCACCB7A2A969DE100998A10 /* ContentView.swift */; };
-		DCACCB7D2A969DE100998A10 /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCACCB7C2A969DE100998A10 /* ImmersiveView.swift */; };
 		DCACCB7F2A969DE400998A10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCACCB7E2A969DE400998A10 /* Assets.xcassets */; };
 		DCACCB822A969DE400998A10 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCACCB812A969DE400998A10 /* Preview Assets.xcassets */; };
+		DCACCB892A969DEC00998A10 /* Objects.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCACCB882A969DEC00998A10 /* Objects.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,9 +20,9 @@
 		DCACCB752A969DE100998A10 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		DCACCB782A969DE100998A10 /* BrokenObservablesExampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrokenObservablesExampleApp.swift; sourceTree = "<group>"; };
 		DCACCB7A2A969DE100998A10 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		DCACCB7C2A969DE100998A10 /* ImmersiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImmersiveView.swift; sourceTree = "<group>"; };
 		DCACCB7E2A969DE400998A10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCACCB812A969DE400998A10 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DCACCB882A969DEC00998A10 /* Objects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Objects.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 			children = (
 				DCACCB782A969DE100998A10 /* BrokenObservablesExampleApp.swift */,
 				DCACCB7A2A969DE100998A10 /* ContentView.swift */,
-				DCACCB7C2A969DE100998A10 /* ImmersiveView.swift */,
+				DCACCB882A969DEC00998A10 /* Objects.swift */,
 				DCACCB7E2A969DE400998A10 /* Assets.xcassets */,
 				DCACCB802A969DE400998A10 /* Preview Content */,
 			);
@@ -157,7 +157,7 @@
 			files = (
 				DCACCB7B2A969DE100998A10 /* ContentView.swift in Sources */,
 				DCACCB792A969DE100998A10 /* BrokenObservablesExampleApp.swift in Sources */,
-				DCACCB7D2A969DE100998A10 /* ImmersiveView.swift in Sources */,
+				DCACCB892A969DEC00998A10 /* Objects.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
